@@ -212,7 +212,35 @@ Corin compreende perfeitamente essa diferença. Normalmente não drena alguém p
 
 Os demais aspectos da fisiologia vampírica ainda serão consolidados separadamente. Poderes, força, velocidade, magia e técnicas especiais pertencem ao Bloco 8.
 
-## 8. Poderes e magia — A REVISAR
+## 8. Poderes e magia — EM CONSOLIDAÇÃO
+
+### Potência — CANÔNICO
+
+Força vampírica sobrenatural. Permite a Corin aplicar força muito acima dos limites humanos em golpes, saltos, agarrões, levantamento e destruição física.
+
+### Fortitude — CANÔNICO
+
+Resistência sobrenatural. Torna o corpo de Corin extraordinariamente difícil de danificar e permite suportar impactos, ferimentos, dor e condições extremas muito além dos limites humanos. O dano que efetivamente atravessa essa resistência ainda pode ser regenerado mediante gasto de sangue.
+
+### Rapidez — CANÔNICO
+
+Velocidade e reflexos sobrenaturais. Corin pode mover-se, reagir e executar ações em velocidades muito superiores às humanas, consumindo mais sangue conforme força o corpo.
+
+### Metamorfose — CANÔNICO
+
+Capacidade de remodelar o próprio corpo vampírico. Corin pode assumir forma de **névoa, morcego ou lobo**, além de produzir transformações parciais independentes como **asas, garras e visão no escuro**.
+
+### Taumaturgia — CANÔNICO
+
+Magia vampírica estudada e desenvolvida por Corin. **Não existe mana separada: todo efeito é alimentado por sangue.** Suas principais aplicações incluem **criação de armas, barreiras, proteções, cura de terceiros, runas e rituais**.
+
+Quanto mais poderoso, complexo ou duradouro o efeito, maior tende a ser o consumo de sangue e/ou a necessidade de preparação.
+
+### Retorno ao Caixão — CANÔNICO
+
+Técnica taumaturgica de emergência vinculada a uma âncora previamente preparada no **caixão de Corin, em sua casa**. Quando ativada, Corin é puxado de volta para esse ponto fixo como último método de fuga.
+
+Não é uma saída automática: exige **tempo de conjuração e grande gasto de sangue**, pode ser interrompida e pode falhar se Corin já estiver sem reservas suficientes. Magos ou outros usuários de magia preparados podem criar **barreiras, selos ou interferências no terreno** capazes de bloquear ou dificultar a conexão com a âncora.
 
 ## 9. Fera — A REVISAR
 
