@@ -91,7 +91,7 @@ Corin também **não gosta de problemas desnecessários**. Quando pode resolver 
 
 Possui humor seco e provocador e pode ser deliberadamente teatral ou excêntrico quando isso o diverte. Seu longo tempo de vida não o tornou emocionalmente inerte: quando reconhece claramente um desejo ou sentimento próprio, sua tendência é **perceber → aceitar → agir**, em vez de passar muito tempo negando aquilo que já sabe.
 
-Corin tende a ser protetor com aqueles que considera seus, mas proteção não deve significar automaticamente controle. Ele pode ultrapassar esse limite em situações específicas e ser confrontado por isso, porém não tem como ideal transformar afeto em autoridade sobre outra pessoa.
+Corin tende a ser protetor com aqueles que considera seus, mas proteção não deve signific automaticamente controle. Ele pode ultrapassar esse limite em situações específicas e ser confrontado por isso, porém não tem como ideal transformar afeto em autoridade sobre outra pessoa.
 
 Em síntese, Corin combina **predador confiante, estudioso curioso e homem que prefere não criar trabalho desnecessário para si mesmo**.
 
@@ -165,6 +165,16 @@ Nenhuma dessas proteções elimina a **dor**. Mesmo quando a regeneração conse
 Em situações extremas, Corin pode deliberadamente ultrapassar todos os limites seguros. Se precisar alcançar Ravena, por exemplo, pode avançar sob o sol usando sangue e regeneração para manter o corpo funcionando enquanto sofre dano contínuo, chegando ao destino queimado, quase sem reservas e à beira do colapso.
 
 > Corin não sobrevive porque o sol deixou de ser perigoso. **Ele sobrevive porque consegue pagar o preço por mais tempo do que quase qualquer outro vampiro.**
+
+### Envelhecimento e estado do corpo — CANÔNICO
+
+Corin permanece fisicamente na idade em que foi transformado. **Seu corpo não envelhece** e não sofre degradação natural pela passagem do tempo.
+
+Doenças humanas comuns não funcionam nele da mesma forma, porque seu organismo não é biologicamente vivo.
+
+Quando sofre ferimentos e consegue se regenerar, o corpo tende a retornar ao seu **estado vampírico estável**, preservando a aparência e a condição física correspondentes à transformação.
+
+> Em condições normais, **tempo não envelhece Corin; dano apenas o altera enquanto o corpo não consegue se restaurar**.
 
 Os demais aspectos da fisiologia vampírica ainda serão consolidados separadamente. Poderes, força, velocidade, magia e técnicas especiais pertencem ao Bloco 8.
 
