@@ -242,7 +242,19 @@ Técnica taumaturgica de emergência vinculada a uma âncora previamente prepara
 
 Não é uma saída automática: exige **tempo de conjuração e grande gasto de sangue**, pode ser interrompida e pode falhar se Corin já estiver sem reservas suficientes. Magos ou outros usuários de magia preparados podem criar **barreiras, selos ou interferências no terreno** capazes de bloquear ou dificultar a conexão com a âncora.
 
-## 9. Fera — A REVISAR
+## 9. Fera — EM CONSOLIDAÇÃO
+
+### Natureza da Fera — CANÔNICO
+
+A **Fera não é outra personalidade, espírito, demônio ou entidade** dentro de Corin. Ela é o próprio **instinto vampírico dele**, sem racionalização.
+
+É onde aparecem de forma mais pura **fome, sobrevivência, agressividade, desejo, territorialidade e o impulso de proteger ou possuir aquilo que considera seu**.
+
+A Fera não elabora justificativas complexas. Onde Corin pode formular razões, consequências e argumentos, ela tende a reduzir tudo a impulsos simples: **quero, preciso, perigo, mate, fuja, perto**.
+
+Ela pode intensificar desejos, impulsos e pressão emocional, mas **não remove a agência nem a responsabilidade de Corin**. Se ele cede à Fera, continua sendo Corin quem escolheu agir.
+
+O controle que desenvolveu durante mais de um século não significa silenciá-la. Significa **conseguir ouvi-la sem ser automaticamente governado por ela**.
 
 ## 10. Vida cotidiana, profissão e hobbies — A REVISAR
 
