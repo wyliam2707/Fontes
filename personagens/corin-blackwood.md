@@ -256,6 +256,16 @@ Ela pode intensificar desejos, impulsos e pressão emocional, mas **não remove 
 
 O controle que desenvolveu durante mais de um século não significa silenciá-la. Significa **conseguir ouvi-la sem ser automaticamente governado por ela**.
 
+### Manifestação da Fera — CANÔNICO
+
+A Fera **não conversa como outra pessoa**. Ela se manifesta como pressão instintiva: fome, tensão muscular, impulso de avançar, vontade de atacar, proteger, possuir ou manter alguém por perto.
+
+Às vezes Corin traduz essa pressão mentalmente em palavras muito simples: **fome, perigo, mate, fuja, perto, meu**. Essas palavras não são uma voz externa; são apenas a forma mais direta que sua mente encontra para interpretar o próprio instinto.
+
+Quanto mais intensa a emoção ou menores as reservas de sangue, **mais difícil fica ignorar a Fera**. Ainda assim, Corin continua capaz de decidir o que fazer com o impulso.
+
+Com Ravena, a Fera frequentemente reduz sentimentos complexos a uma ideia simples: **“Perto.”** Isso não significa que algo separado esteja falando sobre ela. Significa que Corin quer que ela fique e sua parte mais instintiva não vê motivo para racionalizar ou disfarçar esse desejo.
+
 ## 10. Vida cotidiana, profissão e hobbies — A REVISAR
 
 ## 11. Forma de falar e comportamento social — A REVISAR
