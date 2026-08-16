@@ -59,7 +59,27 @@ Quando a transformação se completou, a fome inicial tomou conta dele. Corin **
 
 Ele desapareceu da vida da família naquela noite. Esse acontecimento encerra sua vida humana e marca o início de sua história como vampiro.
 
-## 4. História vampírica — A REVISAR
+## 4. História vampírica — CANÔNICO
+
+O sangue preservado no grimório não transforma qualquer pessoa em vampiro. A maioria dos tocados por ele se torna apenas **carniçal, criatura deformada ou abominação instável**. Corin foi uma exceção rara.
+
+Depois da transformação e do ataque à própria família, passou cerca de **um a dois anos escondido**, sobrevivendo principalmente de sangue animal e, em situações extremas, de alguns humanos fora da lei. Esse período foi dedicado quase inteiramente a recuperar controle consciente sobre a Fera.
+
+Quando conseguiu, começou sua verdadeira existência como um **neófito solitário**.
+
+A partir daí, Corin passou mais de um século sendo simultaneamente **estudioso e guerreiro por necessidade e por natureza**. Sua existência se organizou em torno de estudo, trabalho, hobbies, exploração e treino quase constante.
+
+O grimório responsável por sua transformação tornou-se seu primeiro grande objeto de estudo. Corin o analisou durante anos e cruzou seu conteúdo com outros livros de magia, ocultismo, alquimia e tradições sobrenaturais encontrados ao longo das décadas. A partir desse processo, desenvolveu e sistematizou **seu próprio sistema de magia rúnica, especialmente runas de sangue**.
+
+A busca por conhecimento o levou a viajar, explorar lugares antigos, procurar grimórios, investigar fenômenos sobrenaturais e acumular livros. Dessa necessidade nasceu, pouco a pouco, sua enorme biblioteca: primeiro como ferramenta de sobrevivência, depois como obsessão e finalmente como prazer genuíno pelo conhecimento.
+
+Ao mesmo tempo, Corin enfrentou repetidamente **carniçais, abominações, lobisomens, vampiros, ocultistas, outras criaturas das trevas e humanos perigosos**. Esses conflitos o obrigaram a se tornar extremamente experiente em combate e explicam o desenvolvimento de sua armadura, armas, proteções rúnicas e preparação específica contra diferentes ameaças.
+
+Por experimentação, descobriu também que uma preparação de **sangue, vinho e determinadas ervas** podia alimentá-lo e ajudar a acalmar a Fera. A mistura tornou-se parte de sua rotina ao longo dos anos.
+
+Ao longo de sua existência, exploração, estudo, combate e experimentação fizeram Corin acumular enorme conhecimento, experiência, poder mágico e capacidade marcial.
+
+> Corin não se tornou estudioso ou guerreiro por escolher uma profissão. **Ele sobreviveu porque se tornou os dois.**
 
 ## 5. Personalidade — A REVISAR
 
