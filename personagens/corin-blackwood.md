@@ -91,7 +91,7 @@ Corin também **não gosta de problemas desnecessários**. Quando pode resolver 
 
 Possui humor seco e provocador e pode ser deliberadamente teatral ou excêntrico quando isso o diverte. Seu longo tempo de vida não o tornou emocionalmente inerte: quando reconhece claramente um desejo ou sentimento próprio, sua tendência é **perceber → aceitar → agir**, em vez de passar muito tempo negando aquilo que já sabe.
 
-Corin tende a ser protetor com aqueles que considera seus, mas proteção não deve significar automaticamente controle. Ele pode ultrapassar esse limite em situações específicas e ser confrontado por isso, porém não tem como ideal transformar afeto em autoridade sobre outra pessoa.
+Corin tende a ser protetor com aqueles que considera seus, mas proteção não deve signific automaticamente controle. Ele pode ultrapassar esse limite em situações específicas e ser confrontado por isso, porém não tem como ideal transformar afeto em autoridade sobre outra pessoa.
 
 Em síntese, Corin combina **predador confiante, estudioso curioso e homem que prefere não criar trabalho desnecessário para si mesmo**.
 
@@ -111,7 +111,25 @@ O ponto central é que Corin é um **monstro controlado, mas ainda um monstro**.
 
 Isso permite que aliados heroicos confiem em sua disciplina sem necessariamente concordarem com seus métodos ou com a distância que ele está disposto a percorrer.
 
-## 7. Fisiologia vampírica — A REVISAR
+## 7. Fisiologia vampírica — EM CONSOLIDAÇÃO
+
+### Sangue como energia e recurso — CANÔNICO
+
+Para Corin, **sangue não é apenas alimento: é energia e recurso biológico sobrenatural**.
+
+O simples fato de continuar existindo como vampiro consome sangue lentamente. Mesmo parado e sem usar habilidades, seu corpo gasta energia para se manter funcional.
+
+Quanto mais exige do próprio corpo, maior o consumo. Manter funções humanas opcionais — como respiração simulada, batimentos cardíacos, aquecimento da pele ou atividade sexual — também pode consumir sangue.
+
+Corin pode ser sexualmente ativo, mas isso normalmente depende de **decisão consciente e gasto de sangue**, em vez de funcionar apenas como reflexo biológico automático. Exceções podem ocorrer quando a resposta física se torna espontânea.
+
+A mistura habitual de **sangue, vinho e determinadas ervas** serve ao mesmo tempo como alimentação, reposição de energia e auxílio para manter a Fera estável.
+
+Quando suas reservas diminuem demais, o corpo tende a economizar energia e a Fera reage à necessidade crescente de alimentação.
+
+> O sangue funciona como o **combustível interno do vampiro**, além de ser sua comida.
+
+Os demais aspectos da fisiologia vampírica ainda serão consolidados separadamente. Poderes, força, velocidade, magia e técnicas especiais pertencem ao Bloco 8.
 
 ## 8. Poderes e magia — A REVISAR
 
