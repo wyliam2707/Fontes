@@ -28,7 +28,24 @@ A genealogia pública serve para justificar a continuidade da fortuna familiar e
 
 > Corin possui 138 anos; a sucessão pública dos Blackwood é parte da estrutura usada para ocultar sua permanência através das gerações.
 
-## 2. Aparência — A REVISAR
+## 2. Aparência — CANÔNICO
+
+- Idade aparente: **27 anos**.
+- Altura: aproximadamente **1,85 m**.
+- Corpo: atlético e definido, mais elegante do que volumoso.
+- Pele: muito clara, quase pálida.
+- Rosto: alongado, com traços finos e angulares e expressão naturalmente séria.
+- Cabelo: muito longo, liso a levemente ondulado, castanho muito escuro quase preto, passando dos ombros.
+- Olhos: escuros em estado normal; podem adquirir aspecto sobrenatural quando Corin usa poderes ou deixa sua natureza vampírica aparecer.
+- Barba: normalmente sem barba.
+- Presença: aristocrática, sombria e discretamente predatória.
+- Estilo de roupa: predominantemente escuro e elegante, com cortes clássicos ou detalhes antigos; preto, vinho e tons profundos são recorrentes.
+- Aparência humana: suficientemente normal para circular socialmente sem denunciar de imediato sua natureza sobrenatural.
+- Referência visual: homem de beleza sombria e refinada, com aparência simultaneamente elegante e perigosa.
+
+### Pingente encantado
+
+Corin usa como elemento visual recorrente um **pingente encantado ligado a uma runa de sangue**. Ele funciona como foco mágico e/ou proteção pessoal. O efeito exato ainda será definido no bloco de poderes e magia; neste ponto, está fixado apenas como item encantado recorrente associado a Corin.
 
 ## 3. História humana — A REVISAR
 
