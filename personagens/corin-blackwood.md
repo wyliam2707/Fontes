@@ -91,7 +91,7 @@ Corin também **não gosta de problemas desnecessários**. Quando pode resolver 
 
 Possui humor seco e provocador e pode ser deliberadamente teatral ou excêntrico quando isso o diverte. Seu longo tempo de vida não o tornou emocionalmente inerte: quando reconhece claramente um desejo ou sentimento próprio, sua tendência é **perceber → aceitar → agir**, em vez de passar muito tempo negando aquilo que já sabe.
 
-Corin tende a ser protetor com aqueles que considera seus, mas proteção não deve signific automaticamente controle. Ele pode ultrapassar esse limite em situações específicas e ser confrontado por isso, porém não tem como ideal transformar afeto em autoridade sobre outra pessoa.
+Corin tende a ser protetor com aqueles que considera seus, mas proteção não deve significar automaticamente controle. Ele pode ultrapassar esse limite em situações específicas e ser confrontado por isso, porém não tem como ideal transformar afeto em autoridade sobre outra pessoa.
 
 Em síntese, Corin combina **predador confiante, estudioso curioso e homem que prefere não criar trabalho desnecessário para si mesmo**.
 
@@ -128,6 +128,21 @@ A mistura habitual de **sangue, vinho e determinadas ervas** serve ao mesmo temp
 Quando suas reservas diminuem demais, o corpo tende a economizar energia e a Fera reage à necessidade crescente de alimentação.
 
 > O sangue funciona como o **combustível interno do vampiro**, além de ser sua comida.
+
+### Sono e manutenção — CANÔNICO
+
+Corin **não dorme diariamente**. Seu ciclo normal é permanecer acordado por cerca de **sete dias** e então dormir por aproximadamente **24 horas**.
+
+Esse período não corresponde ao sono humano comum. É um ciclo de **manutenção do corpo vampírico**, durante o qual seu organismo se desliga quase por completo. Nessas 24 horas, Corin está efetivamente **morto**.
+
+O ciclo possui dois riscos opostos:
+
+- Se Corin **prolongar voluntariamente o sono além das 24 horas**, existe o risco de não despertar normalmente e o sono se estender por prazo indeterminado.
+- Se Corin permanecer **tempo demais sem realizar esse ciclo de manutenção**, o corpo também pode acabar se desligando por conta própria, produzindo o mesmo risco de sono prolongado ou indeterminado.
+
+Dormir a cada sete dias é, portanto, ao mesmo tempo um hábito consolidado e uma necessidade prática de manutenção da estabilidade de seu corpo vampírico.
+
+> O perigo não é apenas cansaço: é **adormecer e não saber quando — ou se — irá acordar**.
 
 Os demais aspectos da fisiologia vampírica ainda serão consolidados separadamente. Poderes, força, velocidade, magia e técnicas especiais pertencem ao Bloco 8.
 
