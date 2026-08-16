@@ -47,7 +47,17 @@ A genealogia pública serve para justificar a continuidade da fortuna familiar e
 
 Corin usa como elemento visual recorrente um **pingente encantado ligado a uma runa de sangue**. Ele funciona como foco mágico e/ou proteção pessoal. O efeito exato ainda será definido no bloco de poderes e magia; neste ponto, está fixado apenas como item encantado recorrente associado a Corin.
 
-## 3. História humana — A REVISAR
+## 3. História humana — CANÔNICO
+
+Corin nasceu em **1888**, nos Estados Unidos, numa família comum. O pai era **barbeiro e pequeno comerciante**. Corin cresceu ajudando a família, mas demonstrou interesse por ciência e conseguiu ingressar como **estudante de medicina**.
+
+Durante os estudos encontrou um antigo **grimório de taumaturgia**. Algumas páginas continham resíduos de **sangue vampírico seco e preservado magicamente**.
+
+Ao investigar o livro, Corin entrou em contato com esse sangue e acabou **infectado pelo vampirismo**, sem compreender de imediato o que estava acontecendo.
+
+Quando a transformação se completou, a fome inicial tomou conta dele. Corin **atacou e feriu gravemente membros da própria família**, chegando perto de matá-los. Quando recuperou consciência suficiente para perceber o que estava fazendo, fugiu.
+
+Ele desapareceu da vida da família naquela noite. Esse acontecimento encerra sua vida humana e marca o início de sua história como vampiro.
 
 ## 4. História vampírica — A REVISAR
 
