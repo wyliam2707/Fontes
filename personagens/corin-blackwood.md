@@ -91,11 +91,25 @@ Corin também **não gosta de problemas desnecessários**. Quando pode resolver 
 
 Possui humor seco e provocador e pode ser deliberadamente teatral ou excêntrico quando isso o diverte. Seu longo tempo de vida não o tornou emocionalmente inerte: quando reconhece claramente um desejo ou sentimento próprio, sua tendência é **perceber → aceitar → agir**, em vez de passar muito tempo negando aquilo que já sabe.
 
-Corin tende a ser protetor com aqueles que considera seus, mas proteção não deve signific automaticamente controle. Ele pode ultrapassar esse limite em situações específicas e ser confrontado por isso, porém não tem como ideal transformar afeto em autoridade sobre outra pessoa.
+Corin tende a ser protetor com aqueles que considera seus, mas proteção não deve significar automaticamente controle. Ele pode ultrapassar esse limite em situações específicas e ser confrontado por isso, porém não tem como ideal transformar afeto em autoridade sobre outra pessoa.
 
 Em síntese, Corin combina **predador confiante, estudioso curioso e homem que prefere não criar trabalho desnecessário para si mesmo**.
 
-## 6. Moralidade e limites pessoais — A REVISAR
+## 6. Moralidade e limites pessoais — CANÔNICO
+
+Corin **não possui proibições morais absolutas**. Seu limite não é uma lista de coisas que jamais faria, mas a pergunta: **“isso é realmente necessário?”**
+
+Se considerar a justificativa suficiente, ele pode atravessar linhas que heróis convencionais normalmente não atravessariam. Pode invadir ou alterar a mente de alguém para obter ou remover uma informação, ameaçar, ferir, manipular ou até **drenar completamente um inimigo** se julgar que isso é necessário para alcançar um objetivo importante.
+
+Um exemplo central é o desaparecimento de Ravena: se acreditar que alguém possui a informação necessária para encontrá-la, Corin pode usar métodos extremos sem considerar a moral convencional um impedimento decisivo.
+
+Isso não o torna sádico. Corin não causa sofrimento por diversão, não mata apenas porque pode e não procura violência gratuitamente. Como regra prática, prefere soluções simples, discretas e com menos consequências quando elas funcionam.
+
+Porém, quando decide que algo precisa ser feito, **não depende da aprovação moral de outras pessoas para fazê-lo** e pode não sentir remorso por medidas extremas que considere justificadas.
+
+O ponto central é que Corin é um **monstro controlado, mas ainda um monstro**. Seu autocontrole não existe porque certas ações seriam impensáveis para ele; existe porque ele escolhe conscientemente **quando** liberar aquilo que é capaz de fazer.
+
+Isso permite que aliados heroicos confiem em sua disciplina sem necessariamente concordarem com seus métodos ou com a distância que ele está disposto a percorrer.
 
 ## 7. Fisiologia vampírica — A REVISAR
 
