@@ -144,6 +144,28 @@ Dormir a cada sete dias é, portanto, ao mesmo tempo um hábito consolidado e um
 
 > O perigo não é apenas cansaço: é **adormecer e não saber quando — ou se — irá acordar**.
 
+### Luz solar — CANÔNICO
+
+A **luz solar é naturalmente letal para vampiros**. Um neófito sem proteção pode ser destruído em segundos.
+
+Corin, porém, possui resistência vampírica muito elevada. Graças à sua Fortitude, experiência e capacidade de regeneração, consegue suportar muito mais exposição do que um vampiro jovem.
+
+Sem grande preparação, mas dispondo de sangue suficiente, Corin pode resistir aproximadamente **40–50 minutos** antes de chegar a uma condição crítica.
+
+Com preparação adequada — **roupas pesadas, cobertura da pele, protetor solar, runas de taumaturgia e grandes reservas de sangue** — pode sustentar exposição por **várias horas**.
+
+Isso não representa imunidade. Durante todo esse tempo, seu corpo está sendo danificado e regenerado continuamente.
+
+A duração depende fortemente das condições. Um **dia nublado**, com pouca incidência direta, pode permitir atividades relativamente longas. A mesma exposição **ao meio-dia sob sol direto** seria extremamente perigosa e consumiria sangue em velocidade muito maior.
+
+A regra prática é: **intensidade da luz + proteção disponível + reserva de sangue = quanto tempo Corin consegue permanecer exposto**.
+
+Nenhuma dessas proteções elimina a **dor**. Mesmo quando a regeneração consegue acompanhar o dano, a exposição continua sendo brutalmente dolorosa.
+
+Em situações extremas, Corin pode deliberadamente ultrapassar todos os limites seguros. Se precisar alcançar Ravena, por exemplo, pode avançar sob o sol usando sangue e regeneração para manter o corpo funcionando enquanto sofre dano contínuo, chegando ao destino queimado, quase sem reservas e à beira do colapso.
+
+> Corin não sobrevive porque o sol deixou de ser perigoso. **Ele sobrevive porque consegue pagar o preço por mais tempo do que quase qualquer outro vampiro.**
+
 Os demais aspectos da fisiologia vampírica ainda serão consolidados separadamente. Poderes, força, velocidade, magia e técnicas especiais pertencem ao Bloco 8.
 
 ## 8. Poderes e magia — A REVISAR
