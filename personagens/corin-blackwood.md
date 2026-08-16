@@ -176,6 +176,22 @@ Quando sofre ferimentos e consegue se regenerar, o corpo tende a retornar ao seu
 
 > Em condições normais, **tempo não envelhece Corin; dano apenas o altera enquanto o corpo não consegue se restaurar**.
 
+### Ferimentos, desgaste e colapso — CANÔNICO
+
+Corin pode sobreviver a ferimentos extremamente graves **enquanto ainda possuir sangue suficiente para sustentar o corpo e regenerar o dano**.
+
+O sangue é a energia que mantém sua existência vampírica. Se suas reservas chegam ao ponto em que não existe energia suficiente para manter o corpo funcional ou continuar regenerando, ele entra em colapso.
+
+Um ferimento, portanto, não precisa ser fatal por si só. Ele se torna fatal quando provoca destruição mais rápido do que Corin consegue regenerar ou quando força gasto suficiente para esgotar suas reservas de sangue.
+
+Essa lógica torna a **guerra de atrito** uma das maneiras mais eficazes de derrotar um vampiro poderoso. Um inimigo não precisa necessariamente superar sua regeneração de uma só vez: pode impedir que ele se alimente e obrigá-lo a gastar sangue continuamente até suas reservas acabarem.
+
+A sequência de desgaste é: **dano → regeneração → gasto de sangue → menos energia → regeneração pior → colapso**.
+
+A luz solar é especialmente perigosa por aplicar exatamente esse princípio de forma contínua: o corpo sofre dano sem cessar, exige regeneração constante e pode consumir suas reservas até não haver energia suficiente para sustentar a existência.
+
+> **Corin pode suportar uma quantidade absurda de dano, mas não possui energia infinita. Conter e desgastar até o sangue acabar é uma estratégia real contra ele.**
+
 Os demais aspectos da fisiologia vampírica ainda serão consolidados separadamente. Poderes, força, velocidade, magia e técnicas especiais pertencem ao Bloco 8.
 
 ## 8. Poderes e magia — A REVISAR
