@@ -81,7 +81,19 @@ Ao longo de sua existência, exploração, estudo, combate e experimentação fi
 
 > Corin não se tornou estudioso ou guerreiro por escolher uma profissão. **Ele sobreviveu porque se tornou os dois.**
 
-## 5. Personalidade — A REVISAR
+## 5. Personalidade — CANÔNICO
+
+Corin é **curioso, disciplinado, paciente e muito seguro de si**. Gosta de aprender, testar, explorar e aperfeiçoar aquilo que desperta seu interesse.
+
+Ele parte de uma convicção constante: **considera a si mesmo a maior fera da sala**. Isso não significa que se julgue invencível, mas que normalmente entra numa situação acreditando ser uma das presenças mais perigosas nela. Por isso, intimidação e medo raramente determinam seu comportamento.
+
+Corin também **não gosta de problemas desnecessários**. Quando pode resolver algo por conversa, planejamento, dinheiro, influência, conhecimento ou simplesmente evitando conflito inútil, prefere isso a criar uma luta apenas para provar força. Justamente por confiar na própria capacidade, não sente necessidade de demonstrá-la o tempo todo.
+
+Possui humor seco e provocador e pode ser deliberadamente teatral ou excêntrico quando isso o diverte. Seu longo tempo de vida não o tornou emocionalmente inerte: quando reconhece claramente um desejo ou sentimento próprio, sua tendência é **perceber → aceitar → agir**, em vez de passar muito tempo negando aquilo que já sabe.
+
+Corin tende a ser protetor com aqueles que considera seus, mas proteção não deve signific automaticamente controle. Ele pode ultrapassar esse limite em situações específicas e ser confrontado por isso, porém não tem como ideal transformar afeto em autoridade sobre outra pessoa.
+
+Em síntese, Corin combina **predador confiante, estudioso curioso e homem que prefere não criar trabalho desnecessário para si mesmo**.
 
 ## 6. Moralidade e limites pessoais — A REVISAR
 
