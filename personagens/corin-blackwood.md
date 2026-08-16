@@ -192,6 +192,24 @@ A luz solar é especialmente perigosa por aplicar exatamente esse princípio de 
 
 > **Corin pode suportar uma quantidade absurda de dano, mas não possui energia infinita. Conter e desgastar até o sangue acabar é uma estratégia real contra ele.**
 
+### Alimentação e drenagem — CANÔNICO
+
+Para Corin, **sangue fresco não possui uma qualidade sobrenatural superior ao sangue armazenado**. Bolsas de sangue, sangue conservado ou sangue recém-retirado alimentam o mesmo sistema vampírico.
+
+A diferença principal é a **concentração**. Sangue puro entrega mais recurso por volume do que sua mistura habitual de sangue, vinho e ervas. Alimentar-se diretamente de uma pessoa também produz um impacto psicológico e instintivo mais intenso, sobretudo sobre a Fera, mas não concede um bônus mágico especial.
+
+Isso significa que Corin **não precisa caçar humanos para se manter saudável**. Sua alimentação pode ser controlada e abastecida por sangue armazenado e pela mistura que desenvolveu.
+
+Existe, porém, uma diferença fundamental entre **alimentar-se** e **drenar** alguém.
+
+**Alimentar-se** significa retirar uma quantidade limitada e controlada de sangue. A intenção é obter recurso sem necessariamente destruir a fonte.
+
+**Drenar** significa tratar o corpo de outra pessoa como um reservatório e retirar uma quantidade extrema de sangue para recuperar energia rapidamente. O resultado para a vítima pode ser colapso circulatório, estado crítico ou morte. Em uma drenagem quase total, a imagem é deliberadamente brutal: a pessoa pode simplesmente despencar no chão, pálida e esvaziada, como se tivesse sido reduzida a uma **“uva-passa”**.
+
+Corin compreende perfeitamente essa diferença. Normalmente não drena alguém por simples conveniência, porque existem maneiras muito menos problemáticas de se alimentar. Mas, se considerar necessário — especialmente contra um inimigo — pode usar a drenagem como forma imediata de **repor suas próprias reservas às custas das reservas vitais do outro**, sem precisar sentir remorso por isso.
+
+> **Para Corin, o sangue de uma pessoa é energia. Para a pessoa, perder sangue demais continua sendo uma emergência potencialmente fatal.**
+
 Os demais aspectos da fisiologia vampírica ainda serão consolidados separadamente. Poderes, força, velocidade, magia e técnicas especiais pertencem ao Bloco 8.
 
 ## 8. Poderes e magia — A REVISAR
