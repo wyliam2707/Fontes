@@ -253,7 +253,7 @@ Ela fez um corte pequeno na ponta de um dedo com magia.
 
 Algumas gotas caíram no fundo do pote.
 
-O ferimento se fechou logo depois.
+Ravena pressionou o dedo até o sangramento parar.
 
 Ravena devolveu o recipiente à bancada.
 
