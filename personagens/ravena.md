@@ -69,15 +69,15 @@ Ravena gosta de **ler, meditar e treinar**, mas também tem gostos que quase nun
 
 Os Titãs desconfiam desses gostos, mas ela raramente os demonstra abertamente.
 
-## 7. Desejos e método de decisão — CANÔNICO
+## 7. Desejos e decisões — CANÔNICO
 
 Ravena deseja aquilo que sempre tratou como perigoso demais para desejar: **uma vida comum e completa**. Amar, ser amada, ter intimidade, uma casa, fazer coisas por prazer e ter a liberdade de escolher casamento, família ou qualquer outro futuro sem sentir que sua felicidade pode acabar colocando o mundo em risco.
 
-Esse medo está profundamente ligado a Trigon. Quando a mansão abafa sua influência, Ravena continua sabendo quem é e quais riscos existem, mas o medo deixa de ocupar todo o espaço dentro dela.
+Esse medo está profundamente ligado a Trigon. Quando a mansão abafa sua influência, Ravena continua sendo exatamente a mesma pessoa: reservada, cautelosa e consciente das consequências. O que muda é apenas **o peso que esse medo exerce sobre suas decisões**.
 
-Fora desse alívio, Ravena tende a **sentir → reconhecer → conter ou adiar**. Sob a proteção das runas, quando já sabe o que deseja, o processo pode se tornar simplesmente **sentir → reconhecer → agir**.
+Por isso, desejos que normalmente seriam sufocados pela pressão constante podem parecer muito mais simples de seguir. Ravena pode se permitir **ir dançar, pintar, ouvir música alta, vestir um vestido de casamento, procurar Corin ou simplesmente ficar**. A mansão não muda sua personalidade nem cria esses desejos; apenas reduz a pressão que normalmente pesa contra eles.
 
-Isso explica por que ela pode se permitir decisões que antes pareceriam improváveis: **ir dançar, pintar, ouvir música alta, vestir um vestido de casamento, procurar Corin ou simplesmente ficar**. A mansão não cria esses desejos; ela reduz o medo que normalmente os sufocaria.
+Depois, com a cabeça fria, Ravena pode considerar uma escolha **questionável ou imprudente** sem necessariamente se arrepender dela. Reconhecer isso não impede que escolha repeti-la.
 
 ## 8. Limites — CANÔNICO
 
@@ -89,8 +89,15 @@ Ravena fala de forma **curta, seca e precisa**. Quando está confortável, o mes
 
 Com Corin, pode chamá-lo simplesmente de **Corin** ou usar apelidos como **“sanguessuga”** e **“conde”**, este último em provocação à imagem de Drácula que ele carrega. Em momentos sérios ou íntimos, tende a voltar ao nome dele.
 
+## 10. Evolução emocional — CANÔNICO
+
+Ravena pode **viver uma escolha muito antes de colocá-la em palavras**. Suas atitudes costumam revelar o que ela já sente e escolheu, enquanto a definição verbal pode vir bem depois.
+
+Assim, ela pode já estar dormindo com frequência na mansão, deixando coisas ali, pintando quadros de Corin, procurando sua companhia e participando de sua rotina enquanto ainda evita dizer claramente que os dois **estão juntos**.
+
+Isso não significa que Ravena não saiba o que sente. Significa apenas que, para ela, **agir e admitir em voz alta não acontecem necessariamente no mesmo momento**.
+
 ## A revisar
 
-- evolução emocional;
 - relação com Corin;
 - vida fora da mansão.
