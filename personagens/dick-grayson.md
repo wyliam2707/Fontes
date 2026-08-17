@@ -26,8 +26,13 @@ Dick é **protetor e atento** com Ravena, mas respeita sua autonomia. Pode se pr
 
 Esse respeito não significa confiança cega em quem entra na vida dela. Se considerar necessário, Dick pode **investigar Corin por conta própria**, justamente para entender quem ele é e se existe algum risco para Ravena.
 
+## 5. Relação com Corin — CANÔNICO
+
+Dick começa **desconfiado e testando limites** com Corin. Observa, investiga e provoca até formar a própria opinião.
+
+Quando percebe que Corin realmente trata Ravena bem e respeita as escolhas dela, a desconfiança pode evoluir para **respeito**. Isso não elimina as provocações entre os dois, que podem continuar fazendo parte da relação.
+
 ## A revisar
 
-- relação com Corin;
 - dinâmica com os Titãs;
 - acontecimentos próprios.
