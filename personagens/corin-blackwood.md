@@ -1,6 +1,6 @@
 # Corin Blackwood
 
-**Status:** em consolidação por blocos.
+**Status:** CANÔNICO.
 
 Arquivo destinado à referência canônica de Corin Blackwood.
 
@@ -200,7 +200,7 @@ Técnica taumaturgica de emergência vinculada a uma âncora previamente prepara
 
 Não é uma saída automática: exige **tempo de conjuração e grande gasto de sangue**, pode ser interrompida e pode falhar se Corin já estiver sem reservas suficientes. Magos ou outros usuários de magia preparados podem criar **barreiras, selos ou interferências no terreno** capazes de bloquear ou dificultar a conexão com a âncora.
 
-## 9. Fera — EM CONSOLIDAÇÃO
+## 9. Fera — CANÔNICO
 
 ### Natureza da Fera — CANÔNICO
 
