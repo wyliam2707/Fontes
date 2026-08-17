@@ -83,9 +83,14 @@ Isso explica por que ela pode se permitir decisões que antes pareceriam improv�
 
 Ravena evita colocar outras pessoas em risco por causa de **Trigon ou do próprio poder**. Esse medo é uma das razões pelas quais ela costuma conter desejos, emoções e aproximações que considera capazes de trazer consequências para quem está perto dela.
 
+## 9. Forma de falar — CANÔNICO
+
+Ravena fala de forma **curta, seca e precisa**. Quando está confortável, o mesmo estilo pode ganhar um tom mais leve, irônico ou provocador.
+
+Com Corin, pode chamá-lo simplesmente de **Corin** ou usar apelidos como **“sanguessuga”** e **“conde”**, este último em provocação à imagem de Drácula que ele carrega. Em momentos sérios ou íntimos, tende a voltar ao nome dele.
+
 ## A revisar
 
-- forma de falar;
 - evolução emocional;
 - relação com Corin;
 - vida fora da mansão.
