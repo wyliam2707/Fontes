@@ -16,9 +16,12 @@ Kory é **calorosa, direta, emocionalmente aberta e muito afetuosa**. Demonstra 
 
 Isso cria um contraste natural com Ravena, que costuma sentir muito, mas verbalizar menos.
 
+## 3. Poderes — CANÔNICO
+
+Kory possui **voo, força e resistência sobre-humanas e rajadas de energia**.
+
 ## A revisar
 
-- poderes;
 - relação com Ravena;
 - relação com Corin;
 - dinâmica com os Titãs;
