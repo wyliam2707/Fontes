@@ -246,25 +246,35 @@ Não é uma saída automática: exige **tempo de conjuração e grande gasto de 
 
 ### Natureza da Fera — CANÔNICO
 
-A **Fera não é outra personalidade, espírito, demônio ou entidade** dentro de Corin. Ela é o próprio **instinto vampírico dele**, sem racionalização.
+A **Fera não é outra personalidade, espírito, demônio ou entidade** dentro de Corin. Ela é o **reflexo instintivo vampírico do próprio Corin**, sem educação, justificativa ou racionalização.
 
-É onde aparecem de forma mais pura **fome, sobrevivência, agressividade, desejo, territorialidade e o impulso de proteger ou possuir aquilo que considera seu**.
+Ela expressa de forma direta impulsos como **fome, sobrevivência, agressividade, desejo, territorialidade e vontade de proteger ou possuir aquilo que Corin considera seu**.
 
-A Fera não elabora justificativas complexas. Onde Corin pode formular razões, consequências e argumentos, ela tende a reduzir tudo a impulsos simples: **quero, preciso, perigo, mate, fuja, perto**.
+A Fera **não provoca emoções nem assume o controle de Corin**. Raiva, ciúme, medo, desejo ou violência continuam sendo sentimentos e ações dele. Se Corin mata alguém por raiva, foi Corin quem matou por raiva; não houve possessão ou domínio da Fera.
 
-Ela pode intensificar desejos, impulsos e pressão emocional, mas **não remove a agência nem a responsabilidade de Corin**. Se ele cede à Fera, continua sendo Corin quem escolheu agir.
+Onde Corin pode formular razões, consequências e explicações, a Fera reduz aquilo que ele já sente a impulsos simples: **quero, preciso, perigo, mate, fuja, perto**.
 
-O controle que desenvolveu durante mais de um século não significa silenciá-la. Significa **conseguir ouvi-la sem ser automaticamente governado por ela**.
+> **A Fera não domina Corin; ela revela Corin sem justificativas, educação ou racionalização.**
 
 ### Manifestação da Fera — CANÔNICO
 
-A Fera **não conversa como outra pessoa**. Ela se manifesta como pressão instintiva: fome, tensão muscular, impulso de avançar, vontade de atacar, proteger, possuir ou manter alguém por perto.
+A Fera **não conversa como outra pessoa**. Ela aparece como a leitura mais imediata do próprio instinto de Corin: fome, alerta, impulso de avançar, atacar, proteger, possuir ou manter alguém por perto.
 
-Às vezes Corin traduz essa pressão mentalmente em palavras muito simples: **fome, perigo, mate, fuja, perto, meu**. Essas palavras não são uma voz externa; são apenas a forma mais direta que sua mente encontra para interpretar o próprio instinto.
+Corin pode traduzir essa percepção mentalmente em palavras muito simples: **fome, perigo, mate, fuja, perto, meu**. Essas palavras não são uma voz externa; são a maneira mais direta de sua mente reconhecer aquilo que seu instinto já está dizendo.
 
-Quanto mais intensa a emoção ou menores as reservas de sangue, **mais difícil fica ignorar a Fera**. Ainda assim, Corin continua capaz de decidir o que fazer com o impulso.
+Reservas baixas de sangue tornam a fome naturalmente mais presente, mas isso **não transforma a Fera em uma força que toma decisões por ele**.
 
-Com Ravena, a Fera frequentemente reduz sentimentos complexos a uma ideia simples: **“Perto.”** Isso não significa que algo separado esteja falando sobre ela. Significa que Corin quer que ela fique e sua parte mais instintiva não vê motivo para racionalizar ou disfarçar esse desejo.
+Com Ravena, a Fera frequentemente reduz sentimentos complexos a uma ideia simples: **“Perto.”** Isso significa apenas que Corin quer que ela fique e sua parte mais instintiva não vê motivo para racionalizar ou disfarçar esse desejo.
+
+### Sinceridade instintiva — CANÔNICO
+
+Assim como Corin, a Fera **não mente**. A diferença é que ela também **não oferece meias verdades a ele** e não procura tornar um desejo mais aceitável por meio de justificativas.
+
+Corin pode pensar que deseja determinada coisa por segurança, conveniência ou lógica. A Fera devolve apenas a verdade instintiva que existe por baixo disso: **“quero”, “perto”, “meu”, “proteja”**.
+
+Isso não torna a Fera onisciente. Ela não conhece automaticamente fatos externos nem garante que sua interpretação do mundo esteja correta. Sua sinceridade diz respeito ao **instinto, desejo e sentimento de Corin**.
+
+> **A Fera é Corin sem mentira, sem meia verdade e sem racionalização.**
 
 ## 10. Vida cotidiana, profissão e hobbies — A REVISAR
 
