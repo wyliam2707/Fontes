@@ -308,7 +308,39 @@ Ele não abandona seus interesses por causa dela; passa a **incorporá-la natura
 
 > **Corin não precisa manter uma agenda. Ele precisa ter algo que desperte sua atenção — e quase sempre encontra alguma coisa.**
 
-## 11. Forma de falar e comportamento social — A REVISAR
+## 11. Forma de falar e comportamento social — CANÔNICO
+
+Corin fala de forma **calma, direta e controlada**. Não precisa elevar a voz para impor presença. Seu humor tende a ser **seco e provocador**, e ele pode ser deliberadamente teatral quando isso o diverte.
+
+### Verdade e precisão
+
+Corin **não mente**. Aquilo que efetivamente afirma deve ser verdadeiro segundo o que ele sabe.
+
+Ele também evita transformar **possibilidade, intenção ou expectativa em certeza**. Não costuma fazer promessas absolutas sobre situações que não controla e prefere delimitar exatamente o fato, o momento ou a responsabilidade sobre os quais pode falar.
+
+Exemplos do modo como responde:
+
+- “Você é um perigo?” — **“Neste momento, não.”**
+- “Ela está em risco?” — **“Depende do que considera risco.”**
+- “Risco de morte?” — **“Da minha parte, não.”**
+
+Corin prefere uma resposta específica e verdadeira a uma garantia confortável que talvez não possa cumprir.
+
+### Evasivas verdadeiras
+
+Não mentir **não significa responder tudo diretamente**. Corin pode omitir informação, responder apenas ao aspecto literal de uma pergunta, restringir a resposta a determinado momento ou simplesmente devolver uma verdade que não resolve toda a questão.
+
+Ele pode, portanto, usar a própria verdade como evasiva sem fabricar fatos falsos.
+
+Um exemplo recorrente com Ravena resume bem esse comportamento:
+
+Ravena: **“Eu não moro aqui.”**
+
+Corin: **“Pode chamar do que quiser. Você continua aqui.”**
+
+Ele não discute a definição usada por ela nem afirma mais do que pode demonstrar; limita-se ao fato concreto diante dele.
+
+> **Corin leva o significado das próprias palavras a sério. Ele pode evitar uma resposta, mas não precisa mentir para fazer isso.**
 
 ## 12. Relações importantes — A REVISAR
 
