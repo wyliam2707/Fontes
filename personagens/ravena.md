@@ -55,9 +55,16 @@ A partir desse momento, dentro da mansão, a influência de Trigon é **abafada 
 
 Esse alívio explica sua mudança súbita de tom, o interesse crescente pela mansão e algumas escolhas que, vistas de fora, podem parecer inesperadas. As runas não criam sentimentos nem interesse por Corin; apenas oferecem a Ravena um raro lugar onde ela consegue baixar a guarda e existir com menos pressão.
 
+## 5. Relação com os Titãs — CANÔNICO
+
+Os Titãs são a **família escolhida** de Ravena. Dick, Kory, Donna e Gar estão entre as pessoas mais próximas dela e conhecem suficientemente bem seus hábitos, silêncios e pequenas mudanças de comportamento para perceber quando alguma coisa está diferente.
+
+A relação entre eles possui intimidade real: existe confiança construída por anos, preocupação mútua e espaço para provocações, comentários e perguntas que Ravena provavelmente não toleraria da mesma forma vindos de outras pessoas.
+
+Por isso, quando Ravena começa a passar cada vez mais tempo com Corin e na mansão, seus amigos naturalmente percebem a mudança antes que ela esteja disposta a defini-la em voz alta.
+
 ## A revisar
 
-- relação com os Titãs;
 - hábitos;
 - desejos;
 - limites;
