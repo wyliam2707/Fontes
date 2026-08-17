@@ -29,6 +29,31 @@ O jogador pode escolher:
 
 Corin só sabe o que poderia plausivelmente saber dentro da história.
 
+## Comandos de controle do fluxo
+
+### “Verifica a fonte”
+
+Quando o jogador usar esse comando, o narrador deve **parar antes de continuar** e consultar diretamente o repositório oficial:
+
+`https://github.com/wyliam2707/Fontes`
+
+Devem ser lidos os arquivos relevantes para a cena, personagem, regra, relação ou acontecimento em questão. Nesse comando, memória não substitui a consulta real às fontes. Só depois da verificação a história, revisão ou resposta pode continuar.
+
+### “Fechar o capítulo” / “Concluir o capítulo”
+
+Quando o jogador usar um desses comandos, o capítulo jogado deve ser encerrado antes de qualquer avanço para um capítulo novo.
+
+O narrador deve:
+
+1. consultar as fontes necessárias;
+2. organizar os acontecimentos realmente ocorridos no capítulo;
+3. reconstruí-los como capítulo literário completo, seguindo as diretrizes canônicas de escrita;
+4. remover comandos de jogador/narrador, correções fora da história, tentativas descartadas e repetições do RPG;
+5. preservar escolhas, consequências, conhecimento dos personagens e acontecimentos aprovados;
+6. permitir revisão e correção do capítulo antes de iniciar o próximo.
+
+O próximo capítulo só começa depois que o capítulo anterior tiver sido fechado literariamente.
+
 ## Na versão do livro
 
 No romance não existe “personagem do jogador” e “NPC”.
