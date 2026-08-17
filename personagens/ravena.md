@@ -79,9 +79,12 @@ Fora desse alívio, Ravena tende a **sentir → reconhecer → conter ou adiar**
 
 Isso explica por que ela pode se permitir decisões que antes pareceriam improváveis: **ir dançar, pintar, ouvir música alta, vestir um vestido de casamento, procurar Corin ou simplesmente ficar**. A mansão não cria esses desejos; ela reduz o medo que normalmente os sufocaria.
 
+## 8. Limites — CANÔNICO
+
+Ravena evita colocar outras pessoas em risco por causa de **Trigon ou do próprio poder**. Esse medo é uma das razões pelas quais ela costuma conter desejos, emoções e aproximações que considera capazes de trazer consequências para quem está perto dela.
+
 ## A revisar
 
-- limites;
 - forma de falar;
 - evolução emocional;
 - relação com Corin;
