@@ -342,6 +342,42 @@ Ele não discute a definição usada por ela nem afirma mais do que pode demonst
 
 > **Corin leva o significado das próprias palavras a sério. Ele pode evitar uma resposta, mas não precisa mentir para fazer isso.**
 
-## 12. Relações importantes — A REVISAR
+## 12. Relações importantes — EM CONSOLIDAÇÃO
+
+### Ravena — CANÔNICO
+
+Ravena é a relação central da vida atual de Corin. A aproximação começa antes mesmo de ele compreender completamente o vínculo: **a presença mágica dela o fascina**.
+
+Corin percebe a magia de Ravena quase como **luz e calor**. Aquilo que costuma fazer outras pessoas recuarem ou temerem nela produz o efeito contrário nele: chama sua atenção e o puxa para perto. A imagem é a de alguém atraído por uma luz que simplesmente não consegue deixar de observar.
+
+A Fera traduz esse fascínio e o desejo de Corin da maneira mais simples possível:
+
+**Quero. Meu. Perto.**
+
+Esse efeito não permanece apenas mental. A proximidade de Ravena também pode fazer o **corpo vampírico de Corin responder espontaneamente**. Funções que normalmente dependeriam de decisão consciente e gasto deliberado de sangue podem surgir por impulso quando o desejo dele e a presença mágica dela se combinam. Ravena literalmente consegue fazer o corpo morto dele reagir antes que Corin pare para decidir fazê-lo.
+
+A influência é recíproca. **A magia de Ravena afeta Corin, e a magia de Corin afeta Ravena.** A mansão, suas runas e a presença mágica dele reduzem parte da pressão emocional e sobrenatural que ela costuma carregar, tornando mais natural para Ravena baixar defesas que normalmente mantém erguidas.
+
+Essa reciprocidade ajuda a explicar por que os dois alteram hábitos profundamente consolidados um no outro. Ravena funciona para Corin como uma presença que o atrai para fora de mais de um século de vida solitária; Corin oferece a Ravena um lugar onde ela consegue existir de maneira diferente do habitual.
+
+A evolução emocional de Corin pode ser resumida em três reconhecimentos sucessivos:
+
+**“Quero ela perto.” → “Quero que ela fique.” → “Quero ela como esposa.”**
+
+Quando reconhece cada um desses desejos, Corin tende a aceitá-lo e agir de acordo com ele. Ravena passa gradualmente de presença desejada a parte natural de sua rotina, de sua casa e de seus planos.
+
+### Como Corin chama Ravena
+
+No início, Corin a conhece como a Titã **Ravena**, e é esse o nome que usa.
+
+Com a intimidade dentro da casa surge **“bruxa”**, inicialmente provocador e depois naturalmente íntimo. O apelido também carrega o fascínio específico de Corin pela magia dela.
+
+Mais tarde aparece **“querida”**, quando o afeto já se tornou parte comum da convivência.
+
+Esses tratamentos **não substituem uns aos outros**. Depois de adquiridos, Corin pode usar Ravena, bruxa ou querida conforme o momento, o humor e o tom da conversa.
+
+**Rachel / Rachel Roth não é um tratamento cotidiano. Corin reserva esse nome para a proposta de casamento.** Justamente por quase nunca usá-lo, quando ele disser **“Rachel Roth…”**, o nome terá peso próprio.
+
+> **Ravena é a luz que faz Corin se aproximar; depois de se aproximar, ele descobre que quer a mulher — não apenas a magia — perto dele.**
 
 > Não importar automaticamente versões antigas de Wyliam ou Corvin. Qualquer elemento antigo deve ser confirmado antes de se tornar cânone de Corin Blackwood.
