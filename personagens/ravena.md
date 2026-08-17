@@ -43,9 +43,20 @@ Ravena possui grande poder místico. Para **Sangue e Corvos**, seus poderes de r
 
 Esses poderes podem assumir formas diferentes conforme a necessidade da cena, sem acrescentar novas categorias de poder sem definição prévia.
 
+## 4. Trigon e as runas — CANÔNICO
+
+Trigon continua sendo uma **ameaça real e ativa** na vida de Ravena. Sua influência está se tornando mais forte, e é justamente por isso que ela procura o livro que a leva até Corin.
+
+No início, as runas da mansão quase não a afetam, pois foram criadas principalmente para Corin. Quando Ravena lê o livro e Corin percebe a pressão de Trigon sobre ela, ele **estende a proteção das runas quase por reflexo**.
+
+Corin já está fascinado pela magia de Ravena e, sem admitir ainda que também está interessado nela, reage instintivamente para protegê-la.
+
+A partir desse momento, dentro da mansão, a influência de Trigon é **abafada e diluída**. Não desaparece, mas deixa de pressioná-la com a mesma intensidade. Para Ravena, a diferença é como sair de um **show de rock ensurdecedor** e entrar num ambiente de **música clássica em volume baixo**.
+
+Esse alívio explica sua mudança súbita de tom, o interesse crescente pela mansão e algumas escolhas que, vistas de fora, podem parecer inesperadas. As runas não criam sentimentos nem interesse por Corin; apenas oferecem a Ravena um raro lugar onde ela consegue baixar a guarda e existir com menos pressão.
+
 ## A revisar
 
-- relação com Trigon;
 - relação com os Titãs;
 - hábitos;
 - desejos;
