@@ -276,7 +276,37 @@ Isso não torna a Fera onisciente. Ela não conhece automaticamente fatos extern
 
 > **A Fera é Corin sem mentira, sem meia verdade e sem racionalização.**
 
-## 10. Vida cotidiana, profissão e hobbies — A REVISAR
+## 10. Vida cotidiana, profissão e hobbies — CANÔNICO
+
+Corin **não vive como executivo em tempo integral**. O patrimônio Blackwood é administrado por profissionais; ele acompanha decisões importantes e pode dedicar períodos aos negócios, mas não precisa ocupar a maior parte da existência dirigindo empresas.
+
+### Ciclos de atividade
+
+Corin quase nunca permanece simplesmente sem fazer nada. Enquanto está acordado, tende a organizar o tempo em **blocos longos de atividade e concentração**, formando ciclos flexíveis de aproximadamente 24 horas.
+
+Um ciclo possível seria passar **6 horas fazendo artesanato, 6 horas escrevendo, 6 horas pesquisando medicamentos, 4 horas estudando algum tema e 2 horas apreciando as estrelas**. O ciclo seguinte pode ser totalmente diferente, envolvendo **treino, pesquisa, leitura, magia, tempo livre, negócios, arte, exploração ou qualquer outro interesse**.
+
+Esses exemplos **não constituem uma agenda fixa**. Corin não precisa repetir atividades, horários ou uma sequência específica. O traço constante é que normalmente está **fazendo, estudando, treinando, criando, experimentando ou apreciando alguma coisa**.
+
+Se surgir algo que considere mais interessante, pode interromper um bloco sem incômodo e reorganizar o restante do tempo. Sair, viajar, dançar, acompanhar Ravena ou simplesmente decidir fazer outra coisa não representa uma quebra problemática de rotina.
+
+### Curiosidade e hobbies
+
+Corin possui preferências fortes por **treino, artes e artesanato, escrita, medicina, pesquisa e leitura**, áreas às quais retorna com frequência e nas quais acumulou grande experiência.
+
+Essas preferências não formam uma lista fechada. **Curiosidade é mais importante do que hábito.** Se um assunto ou atividade desperta seu interesse, Corin pode simplesmente decidir aprendê-lo e mergulhar nisso durante horas, mesmo que nunca tenha praticado aquilo antes.
+
+Pode passar um período estudando farmacologia e, em outro momento, decidir aprender uma nova dança, técnica artística, habilidade manual ou qualquer tema que tenha chamado sua atenção.
+
+### Ravena e os ciclos
+
+A presença de Ravena torna os ciclos ainda mais flexíveis. Corin pode mudar a atividade para fazer algo **perto dela**, levar leitura ou pesquisa para o cômodo onde ela está, escrever enquanto ela lê, treinar com ela ou simplesmente transformar parte do tempo em uma atividade compartilhada.
+
+Se Ravena quiser sair ou fazer alguma coisa com ele, Corin pode **abandonar completamente o planejamento daquele ciclo e ir com ela**, sem tratar isso como perturbação ou obrigação.
+
+Ele não abandona seus interesses por causa dela; passa a **incorporá-la naturalmente ao modo como escolhe usar o próprio tempo**.
+
+> **Corin não precisa manter uma agenda. Ele precisa ter algo que desperte sua atenção — e quase sempre encontra alguma coisa.**
 
 ## 11. Forma de falar e comportamento social — A REVISAR
 
