@@ -97,6 +97,10 @@ Assim, ela pode já estar dormindo com frequência na mansão, deixando coisas a
 
 Isso não significa que Ravena não saiba o que sente. Significa apenas que, para ela, **agir e admitir em voz alta não acontecem necessariamente no mesmo momento**.
 
+Conforme Ravena aceita mais dessa vida, seu medo de Trigon também muda. Primeiro existe o medo de **se permitir ter**; depois passa a existir o medo de **perder aquilo que conquistou**. Assumir que gosta de Corin, tratar a mansão como casa, aceitar estabilidade, considerar casamento ou até imaginar filhos no futuro significa ter cada vez mais coisas que podem ser tiradas dela.
+
+Esse medo pode fazê-la hesitar diante do próximo passo ou até **inventar uma justificativa para adiar algo que já sabe querer**. Mas Ravena não permanece em negação indefinidamente. O medo pode atrasar uma definição ou uma decisão; **não a torna irracional a ponto de rejeitar para sempre aquilo que reconhece como seu próprio desejo**.
+
 ## 11. Relação com Corin — CANÔNICO
 
 A relação de Ravena com Corin **não nasce pronta**. Começa com atração física: ela o acha bonito, percebe a tensão entre os dois e sente que alguma coisa nele a atrai.
