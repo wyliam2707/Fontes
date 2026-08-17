@@ -166,31 +166,35 @@ Sangue armazenado e sangue fresco alimentam Corin da mesma forma; sangue puro ap
 
 Ele pode retirar uma quantidade controlada ou **drenar** alguém para recuperar muito sangue rapidamente. Uma drenagem extrema pode deixar a vítima em estado crítico ou matá-la.
 
-## 8. Poderes e magia — EM CONSOLIDAÇÃO
+## 8. Poderes e magia — CANÔNICO
 
-### Potência — CANÔNICO
+### Potência
 
 Força vampírica sobrenatural. Permite a Corin aplicar força muito acima dos limites humanos em golpes, saltos, agarrões, levantamento e destruição física.
 
-### Fortitude — CANÔNICO
+### Fortitude
 
 Resistência sobrenatural. Torna o corpo de Corin extraordinariamente difícil de danificar e permite suportar impactos, ferimentos, dor e condições extremas muito além dos limites humanos. O dano que efetivamente atravessa essa resistência ainda pode ser regenerado mediante gasto de sangue.
 
-### Rapidez — CANÔNICO
+### Rapidez
 
 Velocidade e reflexos sobrenaturais. Corin pode mover-se, reagir e executar ações em velocidades muito superiores às humanas, consumindo mais sangue conforme força o corpo.
 
-### Metamorfose — CANÔNICO
+### Metamorfose
 
 Capacidade de remodelar o próprio corpo vampírico. Corin pode assumir forma de **névoa, morcego ou lobo**, além de produzir transformações parciais independentes como **asas, garras e visão no escuro**.
 
-### Taumaturgia — CANÔNICO
+### Taumaturgia
 
 Magia vampírica estudada e desenvolvida por Corin. **Não existe mana separada: todo efeito é alimentado por sangue.** Suas principais aplicações incluem **criação de armas, barreiras, proteções, cura de terceiros, runas e rituais**.
 
 Quanto mais poderoso, complexo ou duradouro o efeito, maior tende a ser o consumo de sangue e/ou a necessidade de preparação.
 
-### Retorno ao Caixão — CANÔNICO
+### Sentidos vampíricos aguçados
+
+Corin percebe sinais físicos muito sutis — como **batimentos, respiração, cheiro, feromônios, postura e pequenas reações** — e, juntando esses sinais, pode intuir a direção emocional de alguém. É uma sensação e uma interpretação, não uma leitura precisa ou certeza.
+
+### Retorno ao Caixão
 
 Técnica taumaturgica de emergência vinculada a uma âncora previamente preparada no **caixão de Corin, em sua casa**. Quando ativada, Corin é puxado de volta para esse ponto fixo como último método de fuga.
 
