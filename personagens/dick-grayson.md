@@ -1,6 +1,6 @@
 # Dick Grayson
 
-**Status:** em consolidação por blocos.
+**Status:** canônico.
 
 Arquivo destinado à personalidade, poderes/competências, relação com Ravena, relação com Corin e acontecimentos próprios de Dick Grayson dentro de **Sangue e Corvos**.
 
@@ -38,6 +38,6 @@ Dick funciona como o **líder que organiza o grupo** quando a situação exige, 
 
 Ele não age como chefe o tempo todo. A liderança aparece quando é necessária; fora disso, participa da convivência, das brincadeiras e das relações pessoais como parte do grupo.
 
-## A revisar
+## 7. Acontecimentos próprios — CANÔNICO
 
-- acontecimentos próprios.
+Nenhum arco pessoal específico de Dick fica fixado neste momento. Seus acontecimentos próprios podem surgir e ser definidos conforme a história avançar, sem necessidade de antecipá-los na ficha.
