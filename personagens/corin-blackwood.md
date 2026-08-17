@@ -342,7 +342,7 @@ Ele não discute a definição usada por ela nem afirma mais do que pode demonst
 
 > **Corin leva o significado das próprias palavras a sério. Ele pode evitar uma resposta, mas não precisa mentir para fazer isso.**
 
-## 12. Relações importantes — EM CONSOLIDAÇÃO
+## 12. Relações importantes — CANÔNICO
 
 ### Ravena — CANÔNICO
 
@@ -379,5 +379,9 @@ Esses tratamentos **não substituem uns aos outros**. Depois de adquiridos, Cori
 **Rachel / Rachel Roth não é um tratamento cotidiano. Corin reserva esse nome para a proposta de casamento.** Justamente por quase nunca usá-lo, quando ele disser **“Rachel Roth…”**, o nome terá peso próprio.
 
 > **Ravena é a luz que faz Corin se aproximar; depois de se aproximar, ele descobre que quer a mulher — não apenas a magia — perto dele.**
+
+### Demais relações
+
+Neste ponto da história, **Ravena é a única relação pessoal de Corin que precisa de definição própria**. Os demais personagens são conhecidos, aliados, contatos ou pessoas que ele encontra ao longo da narrativa. Relações mais profundas serão registradas apenas se e quando forem construídas pela própria história.
 
 > Não importar automaticamente versões antigas de Wyliam ou Corvin. Qualquer elemento antigo deve ser confirmado antes de se tornar cânone de Corin Blackwood.
