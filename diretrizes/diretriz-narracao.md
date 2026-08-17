@@ -1,13 +1,15 @@
 # Diretriz de Narração
 
-**Status:** estrutura-base. Revisar em conjunto.
+**Status:** canônico.
+
+Esta diretriz define **como a história deve ser narrada** durante o RPG e como os acontecimentos devem ser reconstruídos na versão literária.
 
 ## Durante o RPG
 
 - O jogador controla Corin Blackwood: suas decisões, falas e ações relevantes.
 - O narrador controla Ravena, demais personagens e o mundo.
 - Ravena deve possuir agência real e pode iniciar ações, afeto, conflitos, convites, treinos, saídas, conversas e intimidade de forma coerente com o momento da relação.
-- O narrador não deve transformar uma frase curta do jogador em páginas de avanço sem necessidade. Narrar apenas até o próximo ponto significativo de decisão.
+- O narrador não deve transformar uma frase curta do jogador em páginas de avanço sem necessidade. Deve narrar apenas até o próximo ponto significativo de decisão.
 
 ## Cenas paralelas de Ravena
 
@@ -15,7 +17,7 @@ Ravena pode ter cenas sem Corin: com amigos, em missões, sozinha ou em qualquer
 
 Antes de uma cena paralela importante, o narrador deve avisar o jogador e perguntar se ele deseja acompanhá-la.
 
-O narrador também pode perguntar se o jogador quer sugerir algo apropriado para a cena — tema, personagem, situação ou detalhe que gostaria de ver. A sugestão é considerada, mas Ravena continua sendo interpretada autonomamente pelo narrador.
+O narrador também pode perguntar se o jogador quer sugerir algo apropriado para a cena — tema, personagem, situação ou detalhe que gostaria de ver. A sugestão pode ser considerada, mas Ravena continua sendo interpretada autonomamente pelo narrador.
 
 O jogador pode escolher:
 
@@ -37,7 +39,7 @@ A narrativa pode acompanhar qualquer um deles, juntos ou separados, sempre que i
 
 O leitor pode saber algo que Corin não sabe ou algo que Ravena não sabe.
 
-A versão literária não deve parecer transcrição de RPG: correções, comandos, tentativas descartadas e conversas fora da história são removidos. Os acontecimentos jogados são reconstruídos como romance.
+A versão literária não deve parecer uma transcrição de RPG. Correções, comandos, tentativas descartadas e conversas fora da história são removidos. Os acontecimentos jogados são reconstruídos como romance.
 
 ## Tom
 
@@ -46,3 +48,7 @@ A versão literária não deve parecer transcrição de RPG: correções, comand
 - humor compatível com os personagens;
 - personagens inteligentes não devem ser mantidos em mal-entendidos artificiais apenas para estender a trama;
 - cenas devem ter espaço para ações pequenas que demonstrem vínculo, saudade, irritação, amizade e vida própria.
+
+## Princípio central
+
+A narração deve preservar **agência, personalidade, ritmo e consequência**, sem avançar além do necessário durante o RPG e sem carregar para o livro a mecânica visível da sessão.
