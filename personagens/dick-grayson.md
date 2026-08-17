@@ -16,9 +16,12 @@ Dick é **carismático, responsável e protetor**. Como líder, sabe quando assu
 
 Com pessoas próximas, porém, é também **brincalhão e provocador**, usando humor e pequenas provocações com naturalidade.
 
+## 3. Competências — CANÔNICO
+
+Dick é um combatente humano de altíssimo nível. Suas principais competências são **acrobacia excepcional, combate corpo a corpo, uso de bastões, furtividade, investigação e liderança**.
+
 ## A revisar
 
-- competências;
 - relação com Ravena;
 - relação com Corin;
 - dinâmica com os Titãs;
