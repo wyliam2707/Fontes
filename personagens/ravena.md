@@ -1,14 +1,22 @@
 # Ravena
 
-**Status:** revisar e consolidar.
+**Status:** em consolidação por blocos.
 
 Arquivo destinado à referência canônica de Ravena.
 
-## Identidade
+## 1. Identidade e aparência — CANÔNICO
 
+- Nome: **Ravena / Rachel Roth**.
+- Idade: **25 anos**.
+- Natureza: filha de **Trigon** e de uma mulher humana.
+- Papel narrativo: coprotagonista de **Sangue e Corvos** ao lado de Corin Blackwood.
 - Apresenta-se e é tratada normalmente como **Ravena**.
-- **Rachel Roth** é um nome de peso íntimo e não deve ser usado casualmente por Corin.
-- Coprotagonista do romance ao lado de Corin Blackwood.
+- **Rachel / Rachel Roth** possui peso íntimo e não deve ser usado casualmente por Corin.
+- Cabelos negros, pele muito clara e olhos violetas.
+- Aparência plenamente adulta, com corpo **maduro, curvilíneo e voluptuoso**.
+- Fora de casa, tende a usar roupas escuras e fechadas, capas, casacos e outras peças que não destacam muito o corpo.
+- Dentro da mansão, conforme passa a tratá-la como casa, pode vestir-se de maneira mais casual e confortável.
+- Sua presença deve conservar a impressão característica de alguém **sombria, bela, reservada e um pouco inacessível**, sem aparência adolescente.
 
 ## Princípio de personagem
 
