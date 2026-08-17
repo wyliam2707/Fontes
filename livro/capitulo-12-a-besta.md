@@ -647,21 +647,15 @@ O círculo se partiu.
 
 O líder gritou alguma ordem.
 
-Corin olhou para ele.
+Uma das passarelas cedeu quando Donna destruiu outro ponto de ancoragem e uma cortina de concreto e metal caiu entre ele e o centro da sala.
 
-Rapidez.
+Quando a poeira abriu espaço novamente, o líder já não estava onde estivera.
 
-O homem tentou erguer uma defesa.
+Corin não o procurou.
 
-Uma lança de sangue chegou primeiro.
+O homem deixara de ser o objetivo imediato.
 
-O corpo caiu perto do próprio ritual.
-
-A voz parou.
-
-O controle sobre Ravena, não.
-
-Trigon já não precisava daquele homem da mesma maneira.
+A pressão sobre Ravena continuava.
 
 * * *
 
