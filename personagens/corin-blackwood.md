@@ -63,9 +63,9 @@ Ele desapareceu da vida da família naquela noite. Esse acontecimento encerra su
 
 O sangue preservado no grimório não transforma qualquer pessoa em vampiro. A maioria dos tocados por ele se torna apenas **carniçal, criatura deformada ou abominação instável**. Corin foi uma exceção rara.
 
-Depois da transformação e do ataque à própria família, passou cerca de **um a dois anos escondido**, sobrevivendo principalmente de sangue animal e, em situações extremas, de alguns humanos fora da lei. Esse período foi dedicado quase inteiramente a recuperar controle consciente sobre a Fera.
+Depois da transformação e do ataque à própria família, passou cerca de **um a dois anos escondido**, sobrevivendo principalmente de sangue animal e, em situações extremas, de alguns humanos fora da lei. Esse período foi dedicado quase inteiramente a aprender a conviver com a fome e com seus novos instintos vampíricos.
 
-Quando conseguiu, começou sua verdadeira existência como um **neófito solitário**.
+Quando conseguiu alguma estabilidade, começou sua verdadeira existência como um **neófito solitário**.
 
 A partir daí, Corin passou mais de um século sendo simultaneamente **estudioso e guerreiro por necessidade e por natureza**. Sua existência se organizou em torno de estudo, trabalho, hobbies, exploração e treino quase constante.
 
@@ -75,7 +75,7 @@ A busca por conhecimento o levou a viajar, explorar lugares antigos, procurar gr
 
 Ao mesmo tempo, Corin enfrentou repetidamente **carniçais, abominações, lobisomens, vampiros, ocultistas, outras criaturas das trevas e humanos perigosos**. Esses conflitos o obrigaram a se tornar extremamente experiente em combate e explicam o desenvolvimento de sua armadura, armas, proteções rúnicas e preparação específica contra diferentes ameaças.
 
-Por experimentação, descobriu também que uma preparação de **sangue, vinho e determinadas ervas** podia alimentá-lo e ajudar a acalmar a Fera. A mistura tornou-se parte de sua rotina ao longo dos anos.
+Por experimentação, descobriu também que uma preparação de **sangue, vinho e determinadas ervas** podia alimentá-lo e reduzir a pressão da fome. A mistura tornou-se parte de sua rotina ao longo dos anos.
 
 Ao longo de sua existência, exploração, estudo, combate e experimentação fizeram Corin acumular enorme conhecimento, experiência, poder mágico e capacidade marcial.
 
@@ -111,106 +111,60 @@ O ponto central é que Corin é um **monstro controlado, mas ainda um monstro**.
 
 Isso permite que aliados heroicos confiem em sua disciplina sem necessariamente concordarem com seus métodos ou com a distância que ele está disposto a percorrer.
 
-## 7. Fisiologia vampírica — EM CONSOLIDAÇÃO
+## 7. Fisiologia vampírica — CANÔNICO
 
-### Sangue como energia e recurso — CANÔNICO
+### Sangue como energia e recurso
 
-Para Corin, **sangue não é apenas alimento: é energia e recurso biológico sobrenatural**.
+Para Corin, **sangue é alimento, energia e recurso sobrenatural**. Existir consome pouco; regenerar ferimentos, usar poderes ou manter funções humanas opcionais consome mais.
 
-O simples fato de continuar existindo como vampiro consome sangue lentamente. Mesmo parado e sem usar habilidades, seu corpo gasta energia para se manter funcional.
+Respiração simulada, batimentos, aquecimento da pele e outras respostas de um corpo vivo podem ser ativadas com sangue. Algumas reações podem surgir espontaneamente, especialmente quando desejo e estímulo mágico se combinam, como acontece perto de Ravena.
 
-Quanto mais exige do próprio corpo, maior o consumo. Manter funções humanas opcionais — como respiração simulada, batimentos cardíacos, aquecimento da pele ou atividade sexual — também pode consumir sangue.
+Sua mistura habitual de **sangue, vinho e ervas** serve como alimentação e ajuda a manter a fome sob controle.
 
-Corin pode ser sexualmente ativo, mas isso normalmente depende de **decisão consciente e gasto de sangue**, em vez de funcionar apenas como reflexo biológico automático. Exceções podem ocorrer quando a resposta física se torna espontânea.
+### Sono e torpor
 
-A mistura habitual de **sangue, vinho e determinadas ervas** serve ao mesmo tempo como alimentação, reposição de energia e auxílio para manter a Fera estável.
+Corin costuma permanecer acordado por cerca de **sete dias** e então dormir aproximadamente **24 horas**. Durante esse período seu corpo se desliga quase completamente e está, na prática, morto.
 
-Quando suas reservas diminuem demais, o corpo tende a economizar energia e a Fera reage à necessidade crescente de alimentação.
+Dormir por tempo demais ou permanecer acordado muito além do ciclo pode levá-lo ao **torpor**. Torpor é principalmente um estado mental, semelhante a um coma: sangue pode restaurar o funcionamento do corpo sem necessariamente fazê-lo despertar imediatamente. O despertar pode ocorrer com tempo, estímulos fortes ou força de vontade; situações extremas podem ajudá-lo a romper o torpor.
 
-> O sangue funciona como o **combustível interno do vampiro**, além de ser sua comida.
+### Luz solar
 
-### Sono e manutenção — CANÔNICO
+A **luz solar é uma vulnerabilidade real**. Um vampiro jovem pode ser destruído rapidamente; Corin resiste muito mais graças à Fortitude, regeneração e experiência.
 
-Corin **não dorme diariamente**. Seu ciclo normal é permanecer acordado por cerca de **sete dias** e então dormir por aproximadamente **24 horas**.
+Sem preparação, mas com boas reservas de sangue, consegue suportar aproximadamente **40–50 minutos** antes de chegar a uma condição crítica. Com roupas, cobertura, proteção mágica e bastante sangue, pode permanecer exposto por **várias horas**.
 
-Esse período não corresponde ao sono humano comum. É um ciclo de **manutenção do corpo vampírico**, durante o qual seu organismo se desliga quase por completo. Nessas 24 horas, Corin está efetivamente **morto**.
+Isso nunca é imunidade: o sol causa dano contínuo, dor e gasto constante de sangue para regeneração.
 
-O ciclo possui dois riscos opostos:
+### Regeneração e integridade do corpo
 
-- Se Corin **prolongar voluntariamente o sono além das 24 horas**, existe o risco de não despertar normalmente e o sono se estender por prazo indeterminado.
-- Se Corin permanecer **tempo demais sem realizar esse ciclo de manutenção**, o corpo também pode acabar se desligando por conta própria, produzindo o mesmo risco de sono prolongado ou indeterminado.
+O corpo de Corin não possui pontos vitais humanos relevantes. **O coração não tem função prática especial**, e decapitação não o paralisa nem o mata automaticamente.
 
-Dormir a cada sete dias é, portanto, ao mesmo tempo um hábito consolidado e uma necessidade prática de manutenção da estabilidade de seu corpo vampírico.
+Enquanto possuir sangue suficiente, Corin pode reconstruir danos extremos. Pode continuar movendo o corpo sem a cabeça, regenerar partes destruídas ou recorrer à metamorfose em névoa para se recompor. Quanto maior a destruição, maior o custo de sangue.
 
-> O perigo não é apenas cansaço: é **adormecer e não saber quando — ou se — irá acordar**.
+Por isso, não existe um golpe físico específico que garanta sua morte apenas por atingir determinada parte do corpo.
 
-### Luz solar — CANÔNICO
+### Fraquezas folclóricas
 
-A **luz solar é naturalmente letal para vampiros**. Um neófito sem proteção pode ser destruído em segundos.
+A maior parte das fraquezas tradicionais é apenas folclore:
 
-Corin, porém, possui resistência vampírica muito elevada. Graças à sua Fortitude, experiência e capacidade de regeneração, consegue suportar muito mais exposição do que um vampiro jovem.
+- **estacas** causam o ferimento físico correspondente, mas não paralisam por regra mística;
+- **símbolos sagrados** não possuem efeito especial;
+- **fogo** é perigoso porque destrói tecido rapidamente e força grande gasto de regeneração;
+- **prata** não causa dano especial por si só, mas **dificulta um pouco a regeneração**. Uma bala de prata continua sendo uma bala e uma estaca de prata continua sendo uma estaca, apenas com essa dificuldade adicional de cura.
 
-Sem grande preparação, mas dispondo de sangue suficiente, Corin pode resistir aproximadamente **40–50 minutos** antes de chegar a uma condição crítica.
+### Desgaste, sangue zero e destruição
 
-Com preparação adequada — **roupas pesadas, cobertura da pele, protetor solar, runas de taumaturgia e grandes reservas de sangue** — pode sustentar exposição por **várias horas**.
+A maneira mais eficiente de derrotar Corin é uma **guerra de atrito**: conter, impedir que se alimente e fazê-lo gastar sangue até não conseguir mais regenerar.
 
-Isso não representa imunidade. Durante todo esse tempo, seu corpo está sendo danificado e regenerado continuamente.
+Chegar a **zero sangue não o mata imediatamente**. Ele fica incapaz de agir e tende a entrar em torpor. Porém, nesse estado não consegue se regenerar nem impedir que dano contínuo destrua o corpo. Se fogo ou luz solar o consumirem completamente enquanto não possui sangue para reagir, ele pode ser destruído de forma definitiva.
 
-A duração depende fortemente das condições. Um **dia nublado**, com pouca incidência direta, pode permitir atividades relativamente longas. A mesma exposição **ao meio-dia sob sol direto** seria extremamente perigosa e consumiria sangue em velocidade muito maior.
+> **Contra Corin, o problema não é encontrar um ponto vital. É fazê-lo gastar mais sangue do que consegue repor.**
 
-A regra prática é: **intensidade da luz + proteção disponível + reserva de sangue = quanto tempo Corin consegue permanecer exposto**.
+### Alimentação e drenagem
 
-Nenhuma dessas proteções elimina a **dor**. Mesmo quando a regeneração consegue acompanhar o dano, a exposição continua sendo brutalmente dolorosa.
+Sangue armazenado e sangue fresco alimentam Corin da mesma forma; sangue puro apenas é mais concentrado que sua mistura habitual. Alimentar-se diretamente de alguém tem impacto instintivo maior, mas não concede bônus mágico.
 
-Em situações extremas, Corin pode deliberadamente ultrapassar todos os limites seguros. Se precisar alcançar Ravena, por exemplo, pode avançar sob o sol usando sangue e regeneração para manter o corpo funcionando enquanto sofre dano contínuo, chegando ao destino queimado, quase sem reservas e à beira do colapso.
-
-> Corin não sobrevive porque o sol deixou de ser perigoso. **Ele sobrevive porque consegue pagar o preço por mais tempo do que quase qualquer outro vampiro.**
-
-### Envelhecimento e estado do corpo — CANÔNICO
-
-Corin permanece fisicamente na idade em que foi transformado. **Seu corpo não envelhece** e não sofre degradação natural pela passagem do tempo.
-
-Doenças humanas comuns não funcionam nele da mesma forma, porque seu organismo não é biologicamente vivo.
-
-Quando sofre ferimentos e consegue se regenerar, o corpo tende a retornar ao seu **estado vampírico estável**, preservando a aparência e a condição física correspondentes à transformação.
-
-> Em condições normais, **tempo não envelhece Corin; dano apenas o altera enquanto o corpo não consegue se restaurar**.
-
-### Ferimentos, desgaste e colapso — CANÔNICO
-
-Corin pode sobreviver a ferimentos extremamente graves **enquanto ainda possuir sangue suficiente para sustentar o corpo e regenerar o dano**.
-
-O sangue é a energia que mantém sua existência vampírica. Se suas reservas chegam ao ponto em que não existe energia suficiente para manter o corpo funcional ou continuar regenerando, ele entra em colapso.
-
-Um ferimento, portanto, não precisa ser fatal por si só. Ele se torna fatal quando provoca destruição mais rápido do que Corin consegue regenerar ou quando força gasto suficiente para esgotar suas reservas de sangue.
-
-Essa lógica torna a **guerra de atrito** uma das maneiras mais eficazes de derrotar um vampiro poderoso. Um inimigo não precisa necessariamente superar sua regeneração de uma só vez: pode impedir que ele se alimente e obrigá-lo a gastar sangue continuamente até suas reservas acabarem.
-
-A sequência de desgaste é: **dano → regeneração → gasto de sangue → menos energia → regeneração pior → colapso**.
-
-A luz solar é especialmente perigosa por aplicar exatamente esse princípio de forma contínua: o corpo sofre dano sem cessar, exige regeneração constante e pode consumir suas reservas até não haver energia suficiente para sustentar a existência.
-
-> **Corin pode suportar uma quantidade absurda de dano, mas não possui energia infinita. Conter e desgastar até o sangue acabar é uma estratégia real contra ele.**
-
-### Alimentação e drenagem — CANÔNICO
-
-Para Corin, **sangue fresco não possui uma qualidade sobrenatural superior ao sangue armazenado**. Bolsas de sangue, sangue conservado ou sangue recém-retirado alimentam o mesmo sistema vampírico.
-
-A diferença principal é a **concentração**. Sangue puro entrega mais recurso por volume do que sua mistura habitual de sangue, vinho e ervas. Alimentar-se diretamente de uma pessoa também produz um impacto psicológico e instintivo mais intenso, sobretudo sobre a Fera, mas não concede um bônus mágico especial.
-
-Isso significa que Corin **não precisa caçar humanos para se manter saudável**. Sua alimentação pode ser controlada e abastecida por sangue armazenado e pela mistura que desenvolveu.
-
-Existe, porém, uma diferença fundamental entre **alimentar-se** e **drenar** alguém.
-
-**Alimentar-se** significa retirar uma quantidade limitada e controlada de sangue. A intenção é obter recurso sem necessariamente destruir a fonte.
-
-**Drenar** significa tratar o corpo de outra pessoa como um reservatório e retirar uma quantidade extrema de sangue para recuperar energia rapidamente. O resultado para a vítima pode ser colapso circulatório, estado crítico ou morte. Em uma drenagem quase total, a imagem é deliberadamente brutal: a pessoa pode simplesmente despencar no chão, pálida e esvaziada, como se tivesse sido reduzida a uma **“uva-passa”**.
-
-Corin compreende perfeitamente essa diferença. Normalmente não drena alguém por simples conveniência, porque existem maneiras muito menos problemáticas de se alimentar. Mas, se considerar necessário — especialmente contra um inimigo — pode usar a drenagem como forma imediata de **repor suas próprias reservas às custas das reservas vitais do outro**, sem precisar sentir remorso por isso.
-
-> **Para Corin, o sangue de uma pessoa é energia. Para a pessoa, perder sangue demais continua sendo uma emergência potencialmente fatal.**
-
-Os demais aspectos da fisiologia vampírica ainda serão consolidados separadamente. Poderes, força, velocidade, magia e técnicas especiais pertencem ao Bloco 8.
+Ele pode retirar uma quantidade controlada ou **drenar** alguém para recuperar muito sangue rapidamente. Uma drenagem extrema pode deixar a vítima em estado crítico ou matá-la.
 
 ## 8. Poderes e magia — EM CONSOLIDAÇÃO
 
