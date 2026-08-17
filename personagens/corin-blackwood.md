@@ -51,7 +51,7 @@ Corin, como mago experiente, possui **diversos itens mágicos** acumulados, cria
 
 Corin nasceu em **1888**, nos Estados Unidos, numa família comum. O pai era **barbeiro e pequeno comerciante**. Corin cresceu ajudando a família, mas demonstrou interesse por ciência e conseguiu ingressar como **estudante de medicina**.
 
-Durante os estudos encontrou um antigo **grimório de taumaturgia**. Algumas páginas continham resíduos de **sangue vampírico seco e preservado magicamente**.
+Durante os estudos encontrou um antigo **grimório Tremere de taumaturgia e runas**. Algumas páginas continham resíduos de **sangue vampírico seco e preservado magicamente**.
 
 Ao investigar o livro, Corin entrou em contato com esse sangue e acabou **infectado pelo vampirismo**, sem compreender de imediato o que estava acontecendo.
 
@@ -63,6 +63,8 @@ Ele desapareceu da vida da família naquela noite. Esse acontecimento encerra su
 
 O sangue preservado no grimório não transforma qualquer pessoa em vampiro. A maioria dos tocados por ele se torna apenas **carniçal, criatura deformada ou abominação instável**. Corin foi uma exceção rara.
 
+Sua origem vampírica é de **matriz Tremere**, mas Corin não foi Abraçado por outro vampiro, não teve senhor, não recebeu iniciação e nunca conheceu pessoalmente outro Tremere. O grimório é a única ligação concreta que possui com essa origem.
+
 Depois da transformação e do ataque à própria família, passou cerca de **um a dois anos escondido**, sobrevivendo principalmente de sangue animal e, em situações extremas, de alguns humanos fora da lei. Esse período foi dedicado quase inteiramente a aprender a conviver com a fome e com seus novos instintos vampíricos.
 
 Quando conseguiu alguma estabilidade, começou sua verdadeira existência como um **neófito solitário**.
@@ -73,7 +75,9 @@ O grimório responsável por sua transformação tornou-se seu primeiro grande o
 
 A busca por conhecimento o levou a viajar, explorar lugares antigos, procurar grimórios, investigar fenômenos sobrenaturais e acumular livros. Dessa necessidade nasceu, pouco a pouco, sua enorme biblioteca: primeiro como ferramenta de sobrevivência, depois como obsessão e finalmente como prazer genuíno pelo conhecimento.
 
-Ao mesmo tempo, Corin enfrentou repetidamente **carniçais, abominações, lobisomens, vampiros, ocultistas, outras criaturas das trevas e humanos perigosos**. Esses conflitos o obrigaram a se tornar extremamente experiente em combate e explicam o desenvolvimento de sua armadura, armas, proteções rúnicas e preparação específica contra diferentes ameaças.
+Ao mesmo tempo, Corin enfrentou repetidamente **carniçais, abominações, lobisomens, ocultistas, outras criaturas das trevas e humanos perigosos**. Esses conflitos o obrigaram a se tornar extremamente experiente em combate e explicam o desenvolvimento de sua armadura, armas, proteções rúnicas e preparação específica contra diferentes ameaças.
+
+Corin **nunca encontrou nem viu outro vampiro verdadeiro**. Não sabe se outros ainda existem escondidos, se existiram apenas no passado ou se podem estar extintos.
 
 Por experimentação, descobriu também que uma preparação de **sangue, vinho e determinadas ervas** podia alimentá-lo e reduzir a pressão da fome. A mistura tornou-se parte de sua rotina ao longo dos anos.
 
