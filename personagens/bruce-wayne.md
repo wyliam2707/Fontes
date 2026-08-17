@@ -1,7 +1,7 @@
 # Bruce Wayne
 
-**Status:** ficha-base para revisão.
+**Status:** fora da história.
 
-Arquivo destinado à personalidade, competências, relação com Ravena, relação com Corin e acontecimentos próprios de Bruce Wayne dentro de **Sangue e Corvos**.
+Bruce Wayne não participa de **Sangue e Corvos** no cânone atual.
 
-Nenhum detalhe de versões antigas deve ser importado automaticamente sem revisão.
+Não possui ficha ativa, arco próprio ou participação prevista. Só deve ser introduzido caso o autor decida trazê-lo para a história posteriormente.
