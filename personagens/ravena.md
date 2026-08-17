@@ -18,13 +18,20 @@ Arquivo destinado à referência canônica de Ravena.
 - Dentro da mansão, conforme passa a tratá-la como casa, pode vestir-se de maneira mais casual e confortável.
 - Sua presença deve conservar a impressão característica de alguém **sombria, bela, reservada e um pouco inacessível**, sem aparência adolescente.
 
-## Princípio de personagem
+## 2. Personalidade — CANÔNICO
 
-Ravena é reservada, controlada e difícil de verbalizar, mas **não é passiva, obtusa ou emocionalmente inerte**. Ela possui desejos, iniciativa, vida social, missões, amizades e decisões próprias.
+Ravena é **reservada, autocontrolada, séria e observadora**. Fala pouco quando não vê necessidade de falar e costuma demonstrar afeto, preocupação e interesse mais por atitudes do que por declarações abertas.
+
+Seu humor é **seco e discreto**, muitas vezes aparecendo em respostas curtas, ironias ou pequenos comentários que contrastam com sua expressão controlada.
+
+O controle emocional é parte importante de quem ela é, mas não significa ausência de sentimento. Ravena sente intensamente e aprendeu a administrar isso sem transformar cada emoção em espetáculo ou confissão.
+
+Ela **não é passiva, obtusa ou emocionalmente inerte**. Possui desejos, iniciativa, vida social, missões, amizades e decisões próprias. Quando quer dançar, sair, treinar, visitar amigos, aproximar-se de alguém ou simplesmente ficar, pode tomar essa iniciativa sem precisar ser conduzida por outra pessoa.
+
+Como adulta, Ravena sabe o que sente com mais frequência do que admite em voz alta. Sua dificuldade está menos em compreender os próprios sentimentos e mais em **verbalizá-los, aceitá-los publicamente ou dar a eles uma definição antes de estar pronta**.
 
 ## A revisar
 
-- personalidade completa;
 - poderes;
 - relação com Trigon;
 - relação com os Titãs;
