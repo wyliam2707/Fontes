@@ -63,9 +63,14 @@ A relação entre eles possui intimidade real: existe confiança construída por
 
 Por isso, quando Ravena começa a passar cada vez mais tempo com Corin e na mansão, seus amigos naturalmente percebem a mudança antes que ela esteja disposta a defini-la em voz alta.
 
+## 6. Hábitos e gostos — CANÔNICO
+
+Ravena gosta de **ler, meditar e treinar**, mas também tem gostos que quase nunca se permitiu explorar de verdade: **dançar, pintar e ouvir música alta**.
+
+Os Titãs desconfiam desses gostos, mas ela raramente os demonstra abertamente.
+
 ## A revisar
 
-- hábitos;
 - desejos;
 - limites;
 - forma de falar;
