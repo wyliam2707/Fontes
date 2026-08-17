@@ -69,9 +69,18 @@ Ravena gosta de **ler, meditar e treinar**, mas também tem gostos que quase nun
 
 Os Titãs desconfiam desses gostos, mas ela raramente os demonstra abertamente.
 
+## 7. Desejos e método de decisão — CANÔNICO
+
+Ravena deseja aquilo que sempre tratou como perigoso demais para desejar: **uma vida comum e completa**. Amar, ser amada, ter intimidade, uma casa, fazer coisas por prazer e ter a liberdade de escolher casamento, família ou qualquer outro futuro sem sentir que sua felicidade pode acabar colocando o mundo em risco.
+
+Esse medo está profundamente ligado a Trigon. Quando a mansão abafa sua influência, Ravena continua sabendo quem é e quais riscos existem, mas o medo deixa de ocupar todo o espaço dentro dela.
+
+Fora desse alívio, Ravena tende a **sentir → reconhecer → conter ou adiar**. Sob a proteção das runas, quando já sabe o que deseja, o processo pode se tornar simplesmente **sentir → reconhecer → agir**.
+
+Isso explica por que ela pode se permitir decisões que antes pareceriam improváveis: **ir dançar, pintar, ouvir música alta, vestir um vestido de casamento, procurar Corin ou simplesmente ficar**. A mansão não cria esses desejos; ela reduz o medo que normalmente os sufocaria.
+
 ## A revisar
 
-- desejos;
 - limites;
 - forma de falar;
 - evolução emocional;
