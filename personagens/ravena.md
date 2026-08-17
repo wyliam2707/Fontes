@@ -97,7 +97,14 @@ Assim, ela pode já estar dormindo com frequência na mansão, deixando coisas a
 
 Isso não significa que Ravena não saiba o que sente. Significa apenas que, para ela, **agir e admitir em voz alta não acontecem necessariamente no mesmo momento**.
 
+## 11. Relação com Corin — CANÔNICO
+
+A relação de Ravena com Corin **não nasce pronta**. Começa com atração física: ela o acha bonito, percebe a tensão entre os dois e sente que alguma coisa nele a atrai.
+
+Com a convivência, isso cresce. Ravena gosta do fato de Corin ser **obstinado, não demonstrar medo dela** e reagir de maneira particular à sua magia. A própria magia de Ravena parece responder bem à presença dele.
+
+Aos poucos, atração e curiosidade se transformam em **gosto pela presença dele, afeto, intimidade e vínculo**. A mansão ajuda porque ali a pressão de Trigon quase desaparece, mas **não é a razão pela qual Ravena gosta de Corin**.
+
 ## A revisar
 
-- relação com Corin;
 - vida fora da mansão.
