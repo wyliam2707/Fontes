@@ -43,9 +43,9 @@ A genealogia pública serve para justificar a continuidade da fortuna familiar e
 - Aparência humana: suficientemente normal para circular socialmente sem denunciar de imediato sua natureza sobrenatural.
 - Referência visual: homem de beleza sombria e refinada, com aparência simultaneamente elegante e perigosa.
 
-### Pingente encantado
+### Itens mágicos
 
-Corin usa como elemento visual recorrente um **pingente encantado ligado a uma runa de sangue**. Ele funciona como foco mágico e/ou proteção pessoal. O efeito exato ainda será definido no bloco de poderes e magia; neste ponto, está fixado apenas como item encantado recorrente associado a Corin.
+Corin, como mago experiente, possui **diversos itens mágicos** acumulados, criados ou preparados ao longo dos anos. Pingentes, anéis, talismãs e outros objetos encantados podem ser usados de forma esporádica conforme a necessidade, a preparação ou o interesse do momento. **Não existe um único pingente encantado permanente ou obrigatório associado a Corin.**
 
 ## 3. História humana — CANÔNICO
 
