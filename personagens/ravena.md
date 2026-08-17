@@ -30,9 +30,21 @@ Ela **não é passiva, obtusa ou emocionalmente inerte**. Possui desejos, inicia
 
 Como adulta, Ravena sabe o que sente com mais frequência do que admite em voz alta. Sua dificuldade está menos em compreender os próprios sentimentos e mais em **verbalizá-los, aceitá-los publicamente ou dar a eles uma definição antes de estar pronta**.
 
+## 3. Poderes — CANÔNICO
+
+Ravena possui grande poder místico. Para **Sangue e Corvos**, seus poderes de referência são:
+
+- **magia sombria**;
+- **telecinese**;
+- **portais**;
+- **voo**;
+- **empatia**;
+- **projeção da alma**.
+
+Esses poderes podem assumir formas diferentes conforme a necessidade da cena, sem acrescentar novas categorias de poder sem definição prévia.
+
 ## A revisar
 
-- poderes;
 - relação com Trigon;
 - relação com os Titãs;
 - hábitos;
