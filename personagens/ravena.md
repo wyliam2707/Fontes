@@ -1,6 +1,6 @@
 # Ravena
 
-**Status:** em consolidação por blocos.
+**Status:** canônico.
 
 Arquivo destinado à referência canônica de Ravena.
 
@@ -105,6 +105,10 @@ Com a convivência, isso cresce. Ravena gosta do fato de Corin ser **obstinado, 
 
 Aos poucos, atração e curiosidade se transformam em **gosto pela presença dele, afeto, intimidade e vínculo**. A mansão ajuda porque ali a pressão de Trigon quase desaparece, mas **não é a razão pela qual Ravena gosta de Corin**.
 
-## A revisar
+## 12. Vida fora da mansão — CANÔNICO
 
-- vida fora da mansão.
+Ravena mantém **sua própria vida**. Continua com os Titãs, missões, treinos, compromissos, amizades e períodos longe de Corin.
+
+A mansão não a prende nem substitui o resto de sua existência. Ela **sai e volta quando quiser**, e as passagens de tempo permitem que essa rotina aconteça naturalmente sem precisar narrar cada ausência.
+
+Com o tempo, a mansão pode se tornar casa para Ravena sem deixar de ser um lugar ao qual ela retorna por escolha.
