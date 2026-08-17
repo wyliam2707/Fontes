@@ -20,9 +20,14 @@ Com pessoas próximas, porém, é também **brincalhão e provocador**, usando h
 
 Dick é um combatente humano de altíssimo nível. Suas principais competências são **acrobacia excepcional, combate corpo a corpo, uso de bastões, furtividade, investigação e liderança**.
 
+## 4. Relação com Ravena — CANÔNICO
+
+Dick é **protetor e atento** com Ravena, mas respeita sua autonomia. Pode se preocupar, perguntar, provocar ou discordar, porém não tenta decidir por ela.
+
+Esse respeito não significa confiança cega em quem entra na vida dela. Se considerar necessário, Dick pode **investigar Corin por conta própria**, justamente para entender quem ele é e se existe algum risco para Ravena.
+
 ## A revisar
 
-- relação com Ravena;
 - relação com Corin;
 - dinâmica com os Titãs;
 - acontecimentos próprios.
