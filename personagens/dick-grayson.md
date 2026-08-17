@@ -32,7 +32,12 @@ Dick começa **desconfiado e testando limites** com Corin. Observa, investiga e 
 
 Quando percebe que Corin realmente trata Ravena bem e respeita as escolhas dela, a desconfiança pode evoluir para **respeito**. Isso não elimina as provocações entre os dois, que podem continuar fazendo parte da relação.
 
+## 6. Dinâmica com os Titãs — CANÔNICO
+
+Dick funciona como o **líder que organiza o grupo** quando a situação exige, mas entre os Titãs continua sendo antes de tudo **amigo e família**.
+
+Ele não age como chefe o tempo todo. A liderança aparece quando é necessária; fora disso, participa da convivência, das brincadeiras e das relações pessoais como parte do grupo.
+
 ## A revisar
 
-- dinâmica com os Titãs;
 - acontecimentos próprios.
